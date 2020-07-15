@@ -1,3 +1,3 @@
 <?php
-print "Welcome to Openshift Worldd"/n";
+print "Welcome to Openshift Worldd";
 ?>
